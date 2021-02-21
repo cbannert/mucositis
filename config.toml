@@ -1,0 +1,99 @@
+baseURL = "https://mucositis.de"
+languageCode = "en-us"
+title = "Mucositis.de"
+relativeURLs = true
+
+
+
+theme = ["muco-extras","minimal"]
+# disqusShortname = "username" # delete this to disable disqus comments
+# googleAnalytics = ""
+
+[params]
+    author = "Dr. Christian Bannert"
+    githubUsername = "cbannert"
+    accent = "#78427E"    
+    showBorder = true
+    backgroundColor = "#f1f1f1"
+    font = "Roboto" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    css = ["css/custom.css"]
+
+[markup.goldmark.renderer]
+unsafe = true
+
+
+
+# Willkommen  Zur Person Mucositis Produkte Rezepturen Kontakt Datenschutz Impressum
+
+[[menu.main]]
+    url = "/"
+    name = "Willkommen"
+    weight = 1
+
+[[menu.main]]
+    url = "/about/"
+    name = "Zur Person"
+    weight = 2
+
+[[menu.main]]
+    url = "/mucositis/"
+    name = "Mucositis"
+    weight = 3
+
+
+[[menu.main]]
+    url = "/products/"
+    name = "Produkte"
+    weight = 5
+
+[[menu.main]]
+    url = "/manuals/"
+    name = "Rezepturen"
+    weight = 7
+
+
+
+
+#[[menu.main]]
+ #   url = "/post/"
+  #  name = "Posts"
+  #  weight = 3
+
+
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
+
+[[menu.icon]]
+    url = "mailto:me@example.com"
+    name = "fas fa-envelope"
+    weight = 1
+
+#[[menu.icon]]
+ #   url = "https://github.com/username/"
+ #   name = "fab fa-github"
+  #  weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/chrbannert/"
+    name = "fab fa-twitter"
+    weight = 3
+
+[[menu.icon]]
+    url = "/legal/"
+    name = "fas fa-balance-scale"
+    weight = 5
+
+
+#[[menu.icon]]
+ #   url = "https://www.linkedin.com/in/username/"
+  #  name = "fab fa-linkedin"
+  #  weight = 4
+
+#[[menu.icon]]
+ #   url = "https://www.stackoverflow.com/username/"
+ #   name = "fab fa-stack-overflow"
+  #  weight = 5
