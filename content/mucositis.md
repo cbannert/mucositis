@@ -14,7 +14,7 @@ Patienten, die nach standardisierten Mundpflegeprogrammen therapiert werden, hab
 **Themen:**
 
 - <a href="#overview">Mucositis - eine Übersicht</a>
-- <a href="#patho">Pathophysiologie</a>
+- <a href="#muco">Mucositis - Entstehung, Risiken, Einteilung</a>
 - <a href="#infekt">Mundinfektionen</a>
 - <a href="#schmerz">Mundschmerzen</a>
 - <a href="#natur">Natürliche Mittel und Diät</a>
@@ -42,7 +42,7 @@ Oft erhalten Patienten hohe Dosierungen von Chemotherapeutika oder eine Kombinat
 Geschwüre im Mund verursachen Schmerzen, Essen und Trinken wird erschwert. Auch Infektionen können die Folge sein. Sind die Auswirkungen schwer, muss die Krebstherapie unter Umständen unterbrochen werden. Der Patient muss dann im Krankenhaus weiterbehandelt werden.
 
 
-## Mucositis - Entstehung, Risiken, Einteilung 
+## <a name="muco">Mucositis - Entstehung, Risiken, Einteilung</a> 
 Die Mucositis entsteht unter der Chemo- und der Strahlentherapie dadurch, dass reaktive isiken und Sauerstoffradikale in einer Art kaskadenartigen Reaktionsfolge weitere Zellfaktoren anregen, die die körpereigenen Zellen zerstören. Zuerst kommt es nur zu einer Entzündung des Deckgewebes (Epithels), es wird immer weiter zerstört und Geschwüre (Ulzera) entstehen. Bakterien, Pilze und Viren besiedeln im Übermaß die Schleimhaut. Der Patient erleidet starke Mundschmerzen. In der Folge kann er keine Nahrung mehr aufnehmen. Seine Lebensqualität sinkt, er ist stark infektionsgefährdet.
 
 Das Risiko für eine Mucositis hängt von der Krebsbehandlung selbst, dem Allgemeinzustand des Patienten, der Mundpflege und der Befolgung anerkannter Prophylaxe- oder Therapieanweisungen ab. 
@@ -53,7 +53,7 @@ Das Risiko für eine Mucositis hängt von der Krebsbehandlung selbst, dem Allgem
 
 
 
-### <a name="patho">Pathophysiologie</a>
+### Pathophysiologie
 Die Entstehung und Heilung der Mucositis ist ein komplexer biologischer Prozess, der in 4 Phasen abläuft. 
 
 Die Mucosits beginnt mit der Aktivierung reaktiver Sauerstoffradikale und biologischer Prozesse, die den Untergang von Zellen des Epithels und der Submucosa einleiten (Sonis, Stephan T 2004). Der Zellfaktor NF-ĸB (Nuclear Factor Kappa B) ist der zentrale Ausgangspunkt dieser Reaktion. Wird der Zellfaktor NF-ĸB angeregt, werden eine Reihe zellschädigender Botenstoffe vom Körper erzeugt, die den Mucositis - Prozess einleiten. 
@@ -154,7 +154,7 @@ Zur Ernährung wird eine milde fettarme Kost empfohlen. Gewürztes, Saures, Salz
 
 **Aloe Vera**: hilft bekanntlich bei Sonnenbrand. Daher ist es naheliegend, es auch in Mundspüllösungen bei beginnender Mundrötung (Erythem) einzusetzen. Der Geschmack kann durch einen geringen Zusatz von Honig verbessert werden. Alkoholische Zusätze sind zu meiden.
 
-***amille**: sie soll als Spüllösung Mundulzera verringern. Verwendet werden sollten Kamillentees und keine handelsüblichen alkoholischen Kamillenauszüge. Die Wirksamkeit ist allerdings nicht gesichert. 
+**Kamille**: sie soll als Spüllösung Mundulzera verringern. Verwendet werden sollten Kamillentees und keine handelsüblichen alkoholischen Kamillenauszüge. Die Wirksamkeit ist allerdings nicht gesichert. 
 
 **Eis**: das Lutschen von Eisstücken während der Infusion einer Chemotherapie mit dem Inhaltsstoff 5-Fluorouracil (5FU) verringert die Schwere der Mucositis. Dies wurde in vielen Studien bestätigt. 5FU kommt bei Darmkrebs zur Anwendung. Eis verringert die Durchblutung und die Belastung der Mundschleimhaut während einer Kurzinfusion von etwa 1 Stunde mit 5FU. 
 

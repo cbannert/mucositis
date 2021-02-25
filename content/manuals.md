@@ -31,12 +31,12 @@ Die Lösungen mit Morphin und Pilocarpin sind mit „**kindersicheren Verschlüs
 
 ### Glandomed® mit Lidocain 0,1% oder Tetracain 0,02%
 
-Lidocain hydrochlorid 500mg (fünfhundert Milligramm)
+Lidocain hydrochlorid 500mg (fünfhundert Milligramm)<br>
 in Glandomed 500ml lösen
 
 oder
 
-Tetracain hydrochlorid 100 mg (einhundert Milligramm)
+Tetracain hydrochlorid 100 mg (einhundert Milligramm)<br>
 in Glandomed 500ml lösen
 
 - Prüfung:
@@ -63,9 +63,9 @@ Aus Gründen der Toxizität sind die Flaschen mit einem **kindersicheren Verschl
 
 ### Glandomed® mit Morphin 0,2% 
 
-Morphin hydrochlorid 	1,0 g (ein Gramm)
-Salzsäure 10%		2,0 ml
-in Glandomed			500ml
+Morphin hydrochlorid 1,0 g (ein Gramm) <br>
+Salzsäure 10% 2,0 ml <br>
+in Glandomed 500ml
 
 zu 500ml Glandomed 2 ml Salzsäure 10% geben, in dieser Mischung 1 g Morphin hydrochlorid unter Rühren lösen.
 
@@ -92,9 +92,9 @@ Aus Gründen der Toxizität sind die Flaschen mit einem **kindersicheren Verschl
 
 ### Glandomed® mit Pilocarpin 0,05%**
 
-Pilocarpin hydrochlorid 	250 mg (zweihundertfünfzig Milligramm)
-Salzsäure 10%		2,0 ml
-in Glandomed			500ml
+Pilocarpin hydrochlorid 250 mg (zweihundertfünfzig Milligramm) <br>
+Salzsäure 10% 2,0 ml <br>
+in Glandomed 500ml
 
 zu 500ml Glandomed 2 ml Salzsäure 10% geben, in dieser Mischung 250 mg Pilocarpin hydrochlorid unter Rühren lösen.
 
