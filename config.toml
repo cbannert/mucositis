@@ -26,8 +26,6 @@ unsafe = true
 
 
 
-# Willkommen  Zur Person Mucositis Produkte Rezepturen Kontakt Datenschutz Impressum
-
 [[menu.main]]
     url = "/"
     name = "Willkommen"
