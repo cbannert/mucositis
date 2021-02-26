@@ -22,7 +22,7 @@ Haftungsausschluss
 Verantwortlichkeit für Inhalte
 Die Inhalte unserer Webseiten wurden unter größter Sorgfalt erstellt. Trotzdem können wir nicht garantieren, dass der Inhalt aktuell, zuverlässig oder komplett ist. Gemäß den gesetzlichen Vorschriften sind wir für die selbst erstellten Inhalte verantwortlich. 
 
-Verantwortlichkeit für Links
+Verantwortlichkeit für Links<br>
 Die Seite www.mucostis.de enthält keine Links zu externen Seiten.
 
 Copyright
