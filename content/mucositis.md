@@ -4,7 +4,7 @@
 
 Mucositis, die Entzündung der Mundschleimhaut, kann bei vielen Krebstherapien als Nebenwirkung auftreten. Eine zielgerechte Mucositis - Prophylaxe und – Therapie ist bei jeder Krebsbehandlung anzustreben. Sie soll sicherstellen, dass der Patient die Krebstherapie durchhält und sich so seine Chancen der Heilung verbessern. 
 
-Die Empfehlungen, die auf dieser Seite gegeben werden, resultieren aus einer jahrelangen klinischen Betreuung von Krebspatienten. Dabei haben viele erfahrene Ärzte, Krankenschwestern und Krankenpfleger mitgewirkt.
+Die Empfehlungen, die auf dieser Seite gegeben werden, resultieren aus einer jahrelangen klinischen Betreuung von Krebspatienten. Dabei haben viele erfahrene Ärzte:innen, Krankenschwestern und Krankenpfleger mitgewirkt.
 
 **Erwiesen ist:**
 Die Mucositis beginnt mit der ersten Krebsbehandlung, auch wenn wir die Auswirkungen wie die Rötung der Mundschleimhaut zu diesem Zeitpunkt noch nicht sehen.
@@ -130,7 +130,7 @@ Spüllösungen mit einem Oberflächenanästhetikum wie z.B. Lidocain betäuben d
 **Lokalanästhetika wie Lidocain und Tetracain zur Mundspülung**
 Lidocainhaltige Mittel sind in Form von Gelen zur lokalen Anwendung auf Wunden oder als flüssige Mittel zusammen mit Magnesium- und Aluminiumverbindungen im Handel. Letztere werden bei Magen oder Zwölffingerdarmgeschwüren eingesetzt.
 Für den Krebspatienten mit einer Mucositis sind beide weniger geeignet. Bei ihm ist meistens der gesamte Mund wund, so dass Gele nicht in Betracht kommen. Die flüssigen Mittel mit Magnesium- und Aluminiumverbindungen können das eingedickte Mundsekret verfestigen und die Mundschleimhaut zusätzlich beeinträchtigen.
-Lösungen von Lidocain in Wasser sind leicht sauer. Der Patient verspürt sofort einen Säureschmerz, erst Sekunden später folgt die Schmerzlinderung durch das Lidocain. Am besten vertragen wird eine Lösung von Lidocain in dem leicht alkalischen Glandomed®. Es reizt die Schleimhaut nicht. (Herstellung und Anwendungshinweise unter „Rezepturen“). Bewährt haben sich Konzentrationen von 0,1%-0,2% Lidocain Hydrochlorid in Glandomed®, bei Tetracain Hydrochlorid ist eine Konzentration von 0,02% in Glandomed® ausreichend. Kommen höhere Konzentrationen an Oberflächenanästhetika zum Einsatz, wird der stark lokal anästhesierende Effekt vom Patienten als unangenehm empfunden.
+Lösungen von Lidocain in Wasser sind leicht sauer. Die Patientin verspürt sofort einen Säureschmerz, erst Sekunden später folgt die Schmerzlinderung durch das Lidocain. Am besten vertragen wird eine Lösung von Lidocain in dem leicht alkalischen Glandomed®. Es reizt die Schleimhaut nicht. (Herstellung und Anwendungshinweise unter „Rezepturen“). Bewährt haben sich Konzentrationen von 0,1%-0,2% Lidocain Hydrochlorid in Glandomed®, bei Tetracain Hydrochlorid ist eine Konzentration von 0,02% in Glandomed® ausreichend. Kommen höhere Konzentrationen an Oberflächenanästhetika zum Einsatz, wird der stark lokal anästhesierende Effekt vom Patienten als unangenehm empfunden.
 
 **Morphin zur Mundspülung**
 Bei sehr starken Schmerzen kommen orale, intravenöse Mittel oder Schmerzpflaster zur Anwendung. Sie enthalten meistens Morphium oder aus ihm abgewandelte Arzneimittel. In der Literatur wird mehr und mehr berichtet, dass morphinhaltige Mundspüllösungen nicht nur sehr wirksam sein sollen, sondern auch weniger Nebenwirkungen wie Verstopfung und Atemnot haben. 
