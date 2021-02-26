@@ -133,7 +133,7 @@ Für den Krebspatienten mit einer Mucositis sind beide weniger geeignet. Bei ihm
 Lösungen von Lidocain in Wasser sind leicht sauer. Der Patient verspürt sofort einen Säureschmerz, erst Sekunden später folgt die Schmerzlinderung durch das Lidocain. Am besten vertragen wird eine Lösung von Lidocain in dem leicht alkalischen Glandomed®. Es reizt die Schleimhaut nicht. (Herstellung und Anwendungshinweise unter „Rezepturen“). Bewährt haben sich Konzentrationen von 0,1%-0,2% Lidocain Hydrochlorid in Glandomed®, bei Tetracain Hydrochlorid ist eine Konzentration von 0,02% in Glandomed® ausreichend. Kommen höhere Konzentrationen an Oberflächenanästhetika zum Einsatz, wird der stark lokal anästhesierende Effekt vom Patienten als unangenehm empfunden.
 
 **Morphin zur Mundspülung**
-Bei sehr starken Schmerzen kommen orale, intravenöse Mittel oder Schmerzpflaster zur Anwendung. Sie enthalten meistens Morphium oder aus ihm abgewandelte Arzneimittel. In der Literatur wird mehr und mehr berichtet, dass morphinhaltige Mundspüllösungen nicht nur sehr wirksam sein sollen, sondern auch weniger Nebenwirkungen wie Verstopfung und Atemnot haben. Weiteres können sie auf dieser Seite unter Projekte erfahren.
+Bei sehr starken Schmerzen kommen orale, intravenöse Mittel oder Schmerzpflaster zur Anwendung. Sie enthalten meistens Morphium oder aus ihm abgewandelte Arzneimittel. In der Literatur wird mehr und mehr berichtet, dass morphinhaltige Mundspüllösungen nicht nur sehr wirksam sein sollen, sondern auch weniger Nebenwirkungen wie Verstopfung und Atemnot haben. 
 
 
 ### <a name="natur">Natürliche Mittel und Diät</a>
