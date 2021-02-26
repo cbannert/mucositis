@@ -17,15 +17,14 @@ D-86199 Augsburg<br>
 Email: bannert [at] outlook.com<br>
 mobil. 0157 39281381
 
-Haftungsausschluss
-
+Haftungsausschluss<br>
 Verantwortlichkeit für Inhalte
 Die Inhalte unserer Webseiten wurden unter größter Sorgfalt erstellt. Trotzdem können wir nicht garantieren, dass der Inhalt aktuell, zuverlässig oder komplett ist. Gemäß den gesetzlichen Vorschriften sind wir für die selbst erstellten Inhalte verantwortlich. 
 
-Verantwortlichkeit für Links<br>
+Links<br>
 Die Seite www.mucostis.de enthält keine Links zu externen Seiten.
 
-Copyright
+Copyright<br>
 Unsere Webseiten und deren Inhalt (Texte, Fotos, Grafiken, Design) unterliegen dem deutschen Urheberrecht. Soweit nicht anderweitig gesetzlich vereinbart unterliegt der Nutzen, die Wiedergabe, Kopie oder die Veränderung der Inhalte dem Urheberrecht. Ausnahmen müssen schriftlich von den Webseitenbetreibern oder Rechteinhabern genehmigt werden. Individuelle Kopien der Gebrauchsinformationen sind den Apotheken gestattet. Ansonsten dürfen die Inhalte der Seite weder direkt noch indirekt für wirtschaftliche Zwecke genutzt werden. Der nicht genehmigte Nutzen von unter Urheberrecht geschütztem Material ist nach Paragraph 106 strafbar.
 
 
