@@ -52,7 +52,7 @@ Zu jedem Zeitpunkt können Sie sich über die personenbezogenen Daten, deren Her
 
 ### Betrieb der Seite und Drittanbieter
 
-Diese Seite wird über den Service netflify.com angeboten. Es kann sein, dass netflify.com Daten wie
+Diese Seite wird über den Service netlify.com angeboten. Es kann sein, dass netlify.com Daten wie
 
 – Browsertyp/ Browserversion
 – Betriebssystem des Rechners
