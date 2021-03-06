@@ -43,7 +43,7 @@ Geschwüre im Mund verursachen Schmerzen, Essen und Trinken wird erschwert. Auch
 
 
 ## <a name="muco">Mucositis - Entstehung, Risiken, Einteilung</a> 
-Die Mucositis entsteht unter der Chemo- und der Strahlentherapie dadurch, dass reaktive isiken und Sauerstoffradikale in einer Art kaskadenartigen Reaktionsfolge weitere Zellfaktoren anregen, die die körpereigenen Zellen zerstören. Zuerst kommt es nur zu einer Entzündung des Deckgewebes (Epithels), es wird immer weiter zerstört und Geschwüre (Ulzera) entstehen. Bakterien, Pilze und Viren besiedeln im Übermaß die Schleimhaut. Der Patient erleidet starke Mundschmerzen. In der Folge kann er keine Nahrung mehr aufnehmen. Seine Lebensqualität sinkt, er ist stark infektionsgefährdet.
+Die Mucositis entsteht unter der Chemo- und der Strahlentherapie dadurch, dass reaktive Risiken und Sauerstoffradikale in einer Art kaskadenartigen Reaktionsfolge weitere Zellfaktoren anregen, die die körpereigenen Zellen zerstören. Zuerst kommt es nur zu einer Entzündung des Deckgewebes (Epithels), es wird immer weiter zerstört und Geschwüre (Ulzera) entstehen. Bakterien, Pilze und Viren besiedeln im Übermaß die Schleimhaut. Der Patient erleidet starke Mundschmerzen. In der Folge kann er keine Nahrung mehr aufnehmen. Seine Lebensqualität sinkt, er ist stark infektionsgefährdet.
 
 Das Risiko für eine Mucositis hängt von der Krebsbehandlung selbst, dem Allgemeinzustand des Patienten, der Mundpflege und der Befolgung anerkannter Prophylaxe- oder Therapieanweisungen ab. 
 
