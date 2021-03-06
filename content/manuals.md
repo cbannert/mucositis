@@ -45,7 +45,7 @@ Die Stabilität ist mittels HPLC geprüft worden. Sie beträgt nach 4 Wochen Lag
 
 - Anwendung:
 
-Diese Lösung kann bei mittelstarken Mundschmerzen zur Anwendung kommen und auch schon bei beginnender Rötung des Mundes. Lidocain und tetracain wirken anästhesierend. Daher fühlt sich die Schleimhaut nach dem Spülen des Mundes leicht pelzig an. Die Wirkung dauert etwa 30 Minuten an. Diese zeit sollte vom Patienten/in zum Essen genutzt werden. Die Spülung kann bei Bedarf stündlich wiederholt werden.
+Diese Lösung kann bei mittelstarken Mundschmerzen zur Anwendung kommen und auch schon bei beginnender Rötung des Mundes. Lidocain und Tetracain wirken anästhesierend. Daher fühlt sich die Schleimhaut nach dem Spülen des Mundes leicht pelzig an. Die Wirkung dauert etwa 30 Minuten an. Diese zeit sollte vom Patienten/in zum Essen genutzt werden. Die Spülung kann bei Bedarf stündlich wiederholt werden.
 Aus Gründen der Toxizität sind die Flaschen mit einem **kindersicheren Verschluss** zu versehen.
 
 <i class="fas fa-file-pdf"></i> <a href="../pdfs/gebrauchsinfo_lido.pdf" target="_blank">Gebrauchsinformation zu Glandomed mit Lidocain 0,1% (pdf)</a>
@@ -90,7 +90,7 @@ Aus Gründen der Toxizität sind die Flaschen mit einem **kindersicheren Verschl
 
 
 
-### Glandomed® mit Pilocarpin 0,05%**
+### Glandomed® mit Pilocarpin 0,05%
 
 Pilocarpin hydrochlorid 250 mg (zweihundertfünfzig Milligramm) <br>
 Salzsäure 10% 2,0 ml <br>
