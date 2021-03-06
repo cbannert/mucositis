@@ -56,7 +56,7 @@ Das Risiko für eine Mucositis hängt von der Krebsbehandlung selbst, dem Allgem
 ### Pathophysiologie
 Die Entstehung und Heilung der Mucositis ist ein komplexer biologischer Prozess, der in 4 Phasen abläuft. 
 
-Die Mucosits beginnt mit der Aktivierung reaktiver Sauerstoffradikale und biologischer Prozesse, die den Untergang von Zellen des Epithels und der Submucosa einleiten (Sonis, Stephan T 2004). Der Zellfaktor NF-ĸB (Nuclear Factor Kappa B) ist der zentrale Ausgangspunkt dieser Reaktion. Wird der Zellfaktor NF-ĸB angeregt, werden eine Reihe zellschädigender Botenstoffe vom Körper erzeugt, die den Mucositis - Prozess einleiten. 
+Die Mucosits beginnt mit der Aktivierung reaktiver Sauerstoffradikale und biologischer Prozesse, die den Untergang von Zellen des Epithels und der Submucosa einleiten (Sonis, Stephan T, J Support Oncol 2004;2:21-36). Der Zellfaktor NF-ĸB (Nuclear Factor Kappa B) ist der zentrale Ausgangspunkt dieser Reaktion. Wird der Zellfaktor NF-ĸB angeregt, werden eine Reihe zellschädigender Botenstoffe vom Körper erzeugt, die den Mucositis - Prozess einleiten. 
 
 - Entzündungsphase: zellschädigende körpereigene Botenstoffe (Zytokine) bilden sich. Die Zellen des Epithels werden geschädigt, die Gefäßbildung angeregt und die Mundschleimhaut mit weiteren toxischen Substanzen belastet.
 - Epitheliale Phase: die Neubildung des Epithels verlangsamt sich, die Mundschleimhaut bildet sich zurück. Erste kleine Geschwüre (Ulzera) werden sichtbar.
