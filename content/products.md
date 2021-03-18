@@ -15,11 +15,11 @@ Arzneizusätze zu Glandomed® sind im Abschnitt Rezepturen beschrieben.
 
 ### Mundpflegeprotokoll
 
-Zur Vermeidung und Milderung eine Mucositis bei Chemo- oder Strahentherapie oder beidem parallel
+Zur Vermeidung und Milderung einer Mucositis bei Chemo- oder Strahlentherapie oder beidem parallel
 
 Wichtig ist:
 
-1. Bei frühzeitiger Mundspülung nach diesem Protokoll sind schwere Mucostis-Verläufe (Mucositis Grad III) sehr selten.
+1. Bei frühzeitiger Mundspülung nach diesem Protokoll sind schwere Mucositis-Verläufe (Mucositis Grad III) sehr selten.
 2. Bei der Vorbesprechung einer Chemotherapie oder Strahlenbehandlung ist eine Mucositis-Prophylaxe mit einzuplanen.
 3. Die Vermeidung einer Mucositis soll bewirken, dass Patienten während der gesamten Chemotherapie oder Strahlenbehandlung frische, gesunde Nahrung essen können. Das bedeutet nicht nur höhere Lebensqualität, sondern Stärkung der körpereigenen Abwehr.
 
