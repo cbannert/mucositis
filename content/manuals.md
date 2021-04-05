@@ -28,7 +28,6 @@ Die Lösungen mit Morphin und Pilocarpin sind mit „**kindersicheren Verschlüs
 - *Glandomed® mit Lidocain 0,1% oder Tetracain 0,02%*
 - *Glandomed® mit Morphin 0,2%*
 - *Glandomed® mit Pilocarpin 0,05%*
-
 ### Glandomed® mit Lidocain 0,1% oder Tetracain 0,02%
 
 Lidocain hydrochlorid 500mg (fünfhundert Milligramm)<br>
@@ -53,6 +52,9 @@ Aus Gründen der Toxizität sind die Flaschen mit einem **kindersicheren Verschl
 <i class="fas fa-file-pdf"></i> <a href="../pdfs/gebrauchsinfo_tetracain.pdf" target="_blank">Gebrauchsinformation zu Glandomed mit Tetracain 0,02% (pdf)</a>
 
 <i class="fas fa-file-pdf"></i> <a href="../pdfs/lido-stabilitaet.pdf" target="_blank">Stabilität Glandomed mit Lidocain (pdf)</a>
+
+
+<i class="fas fa-file-pdf"></i> <a href="../pdfs/patient_info_glandomed.pdf" target="_blank">Patient Information Glandomed (pdf)</a>
 
 
 
